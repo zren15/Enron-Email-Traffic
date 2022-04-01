@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.8.8, pytest-6.2.3, py-1.10.0, pluggy-0.13.1 -- /Users/parrt/opt/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/parrt/grading/msds501/M21/enron-zren15
+plugins: anyio-2.2.0
+collecting ... collected 6 items
+
+test_enron.py::test_overall_stats PASSED                                 [ 16%]
+test_enron.py::test_addrs PASSED                                         [ 33%]
+test_enron.py::test_lavorato_filenames PASSED                            [ 50%]
+test_enron.py::test_kay_mann PASSED                                      [ 66%]
+test_enron.py::test_tim_johanson PASSED                                  [ 83%]
+test_enron.py::test_ken_lay_senders PASSED                               [100%]
+
+============================== 6 passed in 13.18s ==============================
+
+real	0m13.672s
+user	0m13.045s
+sys	0m0.476s
