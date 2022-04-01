@@ -7,9 +7,11 @@ What I achieved in this project:
 - Traversed 1.5GB Enron data and performed data wrangling and data cleaning using Python to format and load data as a data frame including file name, recipient, sender and email subject. 
 - Performed exploratory analysis on the raw data in order to identify unusual email behaviors by creating an email traffic heatmap and histograms and by performing network analysis on Python library
 
-Find my code here.
-Find my jupyter notebook here.
+Find my [code](https://github.com/zren15/Enron-Email-Traffic/blob/main/Code/condense.py) here.
 
+Find my [jupyter notebook](https://github.com/zren15/Enron-Email-Traffic/blob/main/Code/enron.ipynb) here.
+
+## Project Guideline
 
 The goal of this project is to learn how to collect, filter, aggregate, explore, and visualize data from a large collection of files. You will also learn how to use the really nice [networkx](https://networkx.org) network analysis library. Our data set is a well-known collection of emails, sent and received within an energy company called Enron, that was collected by the FBI as part of a massive fraud investigation. According to an [FBI retrospective](https://www.fbi.gov/history/famous-cases/enron), "*The Enron Task Force’s efforts resulted in the convictions of nearly all of Enron’s executive management team*" and goes on to say:
 
